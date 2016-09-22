@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="20px" height="30px" viewBox="0 0 20 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 39.1 (31720) - http://www.bohemiancoding.com/sketch -->
+    <title>location</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="UI" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="公司主页" transform="translate(-25.000000, -777.000000)" fill="#000000">
+            <g id="top" transform="translate(0.000000, 120.000000)">
+                <g id="Group-9" transform="translate(0.000000, 637.000000)">
+                    <path d="M25,31.25 C25,37.4756226 35,50 35,50 C35,50 45,37.4756226 45,31.25 C45,25.0243774 40.5338867,20 35,20 C29.4661133,20 25,25.0243774 25,31.25 L25,31.25 Z M31.6666667,31.25 C31.6666667,29.1750122 33.1555339,27.5 35,27.5 C36.8444336,27.5 38.3333333,29.1750122 38.3333333,31.25 C38.3333333,33.3249878 36.8444336,35 35,35 C33.1555339,35 31.6666667,33.3249878 31.6666667,31.25 L31.6666667,31.25 Z" id="location"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
