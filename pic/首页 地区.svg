@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="20px" height="30px" viewBox="0 0 20 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 39.1 (31720) - http://www.bohemiancoding.com/sketch -->
+    <title>location</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="UI" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="主页-1-0" transform="translate(-520.000000, -497.000000)" fill="#FFFFFF">
+            <g id="top" transform="translate(0.000000, 120.000000)">
+                <g id="Group-5" transform="translate(0.000000, 356.000000)">
+                    <g id="location" transform="translate(520.000000, 19.000000)">
+                        <path d="M0,13.25 C0,19.4756226 10,32 10,32 C10,32 20,19.4756226 20,13.25 C20,7.02437744 15.5338867,2 10,2 C4.46611328,2 0,7.02437744 0,13.25 L0,13.25 Z M6.66666667,13.25 C6.66666667,11.1750122 8.15553385,9.5 10,9.5 C11.8444336,9.5 13.3333333,11.1750122 13.3333333,13.25 C13.3333333,15.3249878 11.8444336,17 10,17 C8.15553385,17 6.66666667,15.3249878 6.66666667,13.25 L6.66666667,13.25 Z"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

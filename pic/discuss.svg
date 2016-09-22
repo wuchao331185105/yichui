@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="34px" height="40px" viewBox="0 0 34 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 39.1 (31720) - http://www.bohemiancoding.com/sketch -->
+    <title>message</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="UI" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="文章-1-0" transform="translate(-30.000000, -2606.000000)" fill="#545A66">
+            <g id="Group-16" transform="translate(0.000000, 2591.000000)">
+                <g id="Group-11">
+                    <g id="Group-10" transform="translate(30.000000, 15.000000)">
+                        <path d="M0,28.7995129 L0,9.59981901 L17.0000286,0 L34,9.59981901 L34,28.7995129 L0,28.7995129 Z M18.1496146,31.1240959 L9.07480728,40 L0,31.1240959 L18.1496146,31.1240959 Z" id="message"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
